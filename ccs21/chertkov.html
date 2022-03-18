@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Misha Chertkov | CCS2021 Satellite</title>
+		
+		<meta name="keywords" content="Chertkov, CCS 2021, Satellite, Network, Data-based, Inference, Disturbance">
+		<meta name="author" content="Robin Delabays">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<link rel="icon" type="image/x-icon" href="images/favicon.svg">
+		<link rel="stylesheet" href="../styles.css">
+	</head>
+
+	<body>
+		<div class="ccs21-header">
+			<p class="ccs21-header" style="font-size:20pt; text-align:center;">
+			<br>
+			CCS2021 Satellite Symposium<br>
+			Data-based Diagnosis of Networked Dynamical Systems
+			<br>
+			<br>
+			</p>
+		</div>
+
+		<h1 class="ccs21" style="text-align:left;">
+			Misha Chertkov
+		</h1>
+		<h3 class="ccs21">
+			<i>University of Arizona</i>
+			<br><br>
+			Graphical Models of Pandemic<br>
+			<i>3:45pm, Room St Clair 3B</i>
+		</h3>
+
+		<p>Both COVID-19 and novel pandemics challenge those of us within the modeling community, specifically in establishing suitable relations between lifecycles, scales, and existing methods.
+		Herein we demonstrate transitions between models in space/time, individual-to-community, county-to-city, along with models for the trace beginning with exposure, then to symptom manifest, then to community transmission.
+		To that end, we leverage publicly available data to compose a chain of Graphical Models (GMs) for predicting infection rates across communities, space, and time.
+		We'll anchor our GMs against the more expensive yet state-of-the-art Agent-Based Models (ABMs).
+		In this proof of principle study, focusing on the novel Graphical Model (GM) methodology for predicting infection rates across communities, space, and time, we show how static GM of the Ising model type (characterized by pair-wise interaction between nodes related to traffic and communications between nodes representing communities, or census tracts within a given city, and with local infection bias) emerge from a dynamic GM of the Independent Cascade type, introduced and studied in Computer and Networks sciences in the context of the spread of social influences. 
+		Then, we formulate the problem of statistical inference in the epidemiology.
+		Specifically, we pose the challenge of computing Conditional A-posteriori Level of Infection (CALI),  which provides a quantitative answer to the questions: 
+		What is the probability that a given node in the GM (given census tract within the city) becomes infected in the result of injection of the infection at another node, e.g. due to arrival of a super-spreader agent or occurrence of the super-spreader event in the area.
+		To demonstrate utility of the methodology, which is new for the public health application, we build a 123-node model of Seattle, as well as its 10-node and 20-node coarse-grained variants, and then conduct the proof of principles experimental studies. 
+		The experiments lead to discovery of interesting and most probably universal phenomena. 
+		In particular, we observe (a) a strong sensitivity of CALI to the location of the initial infection, and (b) strong alignment of the resulting infection probability (values of CALI) observed at different nodes in the regimes of moderate interaction between the nodes. 
+		We then speculate how these, and other observations drawn from the synthetic experiments, can be extended to a more realistic, data driven setting of actual operation importance.
+		</p>
+		
+		<p><a href="chertkov.pdf" target="_blank">Download slides</a></p>
+				
+	</body>
+
+</html>
+
+
+
+

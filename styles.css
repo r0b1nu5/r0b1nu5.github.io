@@ -1,0 +1,160 @@
+.list {
+	margin-left: 250px;
+}
+
+.socialmedia {
+	float: right;
+}
+
+a {
+	color: black;
+}
+
+a.btt {
+	margin-left:200px;
+	font-size: 12pt;
+	font-style: italic;
+}
+
+a.publication {
+	font-style: italic;
+}
+			
+body {
+	font-family: verdana,helvetica,sans-serif;
+}
+
+div.ccs21-footer {
+	background-color: rgb(194,43,23);
+	color: white;
+	margin-top: 50px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+}
+
+div.ccs21-header {
+	background-color: rgb(194,43,23);
+	color: white;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-top: -10px;
+}
+
+div.footer {
+	background-color: rgb(100,25,60);
+	color: white;
+	margin-top: 50px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+}
+
+div.header {
+	background-color: rgb(100,25,60);
+	color: white;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-top: -10px;
+}
+
+h1 {
+	color: rgb(100,25,60);
+	font-size: 30pt;
+	font-weight: normal;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+h1.ccs21 {
+	color: rgb(194,43,23);
+}
+
+h2 {
+	font-size: 22pt;
+	font-weight: normal;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+h2.ccs21 {
+	color: rgb(194,43,23);
+}
+
+h3 {
+	font-size: 18pt;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+h3.ccs21 {
+	color: rgb(194,43,23);
+}
+
+hr {
+	margin-left: 200px;
+	margin-right: 200px;
+	color: rgb(100,25,60);
+}
+
+li {
+	margin-top: 20px;
+}
+
+p {
+	font-size: 14pt;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+p.ccs21-footer {
+	margin-left: 210px;
+	margin-right: 210px;
+	margin-bottom: -10px;
+	text-align: center;
+	font-size: 12pt;
+	font-style: italic;
+}
+
+p.ccs21-header {
+	margin-left: 210px;
+	margin-right: 210px;
+	margin-top: -10px;
+}
+
+p.ccs21-schedule {
+	margin-left:230px;
+	line-height:1.5;
+}
+
+p.footer {
+	margin-left: 210px;
+	margin-right: 210px;
+	margin-bottom: -10px;
+	text-align: center;
+	font-size: 12pt;
+	font-style: italic;
+}
+
+p.header {
+	margin-left: 210px;
+	margin-right: 210px;
+	margin-top: -10px;
+}
+
+ps {
+	font-size: 12pt;
+}
+
+rd {
+	color: rgb(100,25,60);
+	font-weight: bold;
+}
+
+ul {
+	font-size: 14pt;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+
