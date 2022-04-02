@@ -1,5 +1,5 @@
 .list {
-	margin-left: 250px;
+	margin-left: 12%;
 }
 
 .socialmedia {
@@ -11,7 +11,7 @@ a {
 }
 
 a.btt {
-	margin-left:200px;
+	margin-left:10%;
 	font-size: 12pt;
 	font-style: italic;
 }
@@ -27,43 +27,43 @@ body {
 div.ccs21-footer {
 	background-color: rgb(194,43,23);
 	color: white;
-	margin-top: 50px;
-	margin-left: -10px;
-	margin-right: -10px;
-	margin-bottom: -10px;
+	margin-top: 3%;
+	margin-left: -1%;
+	margin-right: -1%;
+	margin-bottom: -1%;
 }
 
 div.ccs21-header {
 	background-color: rgb(194,43,23);
 	color: white;
-	margin-left: -10px;
-	margin-right: -10px;
-	margin-top: -10px;
+	margin-left: -1%;
+	margin-right: -1%;
+	margin-top: -1%;
 }
 
 div.footer {
 	background-color: rgb(100,25,60);
 	color: white;
-	margin-top: 50px;
-	margin-left: -10px;
-	margin-right: -10px;
-	margin-bottom: -10px;
+	margin-top: 3%;
+	margin-left: -1%;
+	margin-right: -1%;
+	margin-bottom: -1%;
 }
 
 div.header {
 	background-color: rgb(100,25,60);
 	color: white;
-	margin-left: -10px;
-	margin-right: -10px;
-	margin-top: -10px;
+	margin-left: -1%;
+	margin-right: -1%;
+	margin-top: -1%;
 }
 
 h1 {
 	color: rgb(100,25,60);
 	font-size: 30pt;
 	font-weight: normal;
-	margin-left: 200px;
-	margin-right: 200px;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 h1.ccs21 {
@@ -73,8 +73,8 @@ h1.ccs21 {
 h2 {
 	font-size: 22pt;
 	font-weight: normal;
-	margin-left: 200px;
-	margin-right: 200px;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 h2.ccs21 {
@@ -83,8 +83,8 @@ h2.ccs21 {
 
 h3 {
 	font-size: 18pt;
-	margin-left: 200px;
-	margin-right: 200px;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 h3.ccs21 {
@@ -92,54 +92,54 @@ h3.ccs21 {
 }
 
 hr {
-	margin-left: 200px;
-	margin-right: 200px;
+	margin-left: 10%;
+	margin-right: 10%;
 	color: rgb(100,25,60);
 }
 
 li {
-	margin-top: 20px;
+	margin-top: 1%;
 }
 
 p {
 	font-size: 14pt;
-	margin-left: 200px;
-	margin-right: 200px;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 p.ccs21-footer {
-	margin-left: 210px;
-	margin-right: 210px;
-	margin-bottom: -10px;
+	margin-left: 11%;
+	margin-right: 11%;
+	margin-bottom: -1%;
 	text-align: center;
 	font-size: 12pt;
 	font-style: italic;
 }
 
 p.ccs21-header {
-	margin-left: 210px;
-	margin-right: 210px;
-	margin-top: -10px;
+	margin-left: 11%;
+	margin-right: 11%;
+	margin-top: -1%;
 }
 
 p.ccs21-schedule {
-	margin-left:230px;
+	margin-left:12%;
 	line-height:1.5;
 }
 
 p.footer {
-	margin-left: 210px;
-	margin-right: 210px;
-	margin-bottom: -10px;
+	margin-left: 11%;
+	margin-right: 11%;
+	margin-bottom: -1%;
 	text-align: center;
 	font-size: 12pt;
 	font-style: italic;
 }
 
 p.header {
-	margin-left: 210px;
-	margin-right: 210px;
-	margin-top: -10px;
+	margin-left: 11%;
+	margin-right: 11%;
+	margin-top: -1%;
 }
 
 ps {
@@ -153,8 +153,8 @@ rd {
 
 ul {
 	font-size: 14pt;
-	margin-left: 200px;
-	margin-right: 200px;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 
