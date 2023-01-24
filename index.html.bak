@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Robin Delabays | Research</title>
+		<meta name="keywords" content="Robin, Delabays, Network, Dynamical Systems">
+		<meta name="author" content="Robin Delabays">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Sets the viewport to make the website look good on all devices. -->
+		<link rel="icon" type="image/x-icon" href="images/favicon.svg">
+		<link rel="stylesheet" href="styles.css">
+	</head>
+
+<!-- ========================== Body =============================== -->
+	<body>
+		<!-- Page header -->
+		<div class="header">
+			<p class="header">
+			<br>
+			<br>
+			ROBIN DELABAYS	
+			<span style="float:right;">robin.delabays@hevs.ch</span>
+			<br>
+			<i>HES-SO Valais-Wallis</i>
+			<br>
+			<br>
+			</p>
+		</div>
+		
+<!-- =========================== Social media links ===================== -->
+		<a href="https://publons.com/resracher/1454260/robin-delabays/" target="_blank">
+			<img src="images/publons.png" alt="Publons" style="width:40px; margin-right:15vw;" class="socialmedia">
+		</a>
+		<a href="https://www.researchgate.net/profile/Robin_Delabays" target="_blank">
+			<img src="images/researchgate.png" alt="ResearchGate" style="width:40px;margin-right:10px;" class="socialmedia">
+		</a>
+		<a href="https://orcid.org/0000-0001-6344-1207" target="_blank">
+			<img src="images/orcid.png" alt="ORCID" style="width:40px;margin-right:10px;" class="socialmedia">
+		</a>
+		<a href="https://scholar.google.com/citations?hl=en&user=Fi4dLRYAAAAJ" target="_blank">
+			<img src="images/scholar.png" alt="Google Scholar" style="width:40px;margin-right:10px;" class="socialmedia">
+		</a>
+		
+		<br>
+		<br>
+<!-- ======================= Sections ========================== -->
+		<p><a href="#aboutme">About me</a> - <a href="#myresearch">My research</a> - <a href="#publications">Publications</a> - <a href="#ccs21">CCS 2021</a> - <a href="#geocow20">GeoCoW 2020</a></p>
+
+
+		<hr>
+		
+<!-- ======================= JPhys Complexity ================== -->
+		<h1 id="jphyscomplexity">Journal of Physics: Complexity - Focus Issue</h1>
+		
+		<p class="text">
+			Since April 2022, I am a Guest Editor for <i>Journal of Physics: Complexity</i>. 
+			I am collaborating with 
+			<a href="https://scholar.google.com/citations?hl=en&user=2d7KHqsAAAAJ" target="_blank">Laurent Pagnier</a> (University of Arizona), 
+			<a href="https://www.iai.kit.edu/english/2154_4101.php" target="_blank">Benjamin Sch&auml;fer</a> (Karlsruhe Institute of Technology), 
+			<a href="https://www.melvyntyloo.com" target="_blank">Melvyn Tyloo</a> (Los Alamos National Laboratory),
+			and
+			<a href="https://www.fz-juelich.de/iek/iek-ste/EN/AboutUs/LeitendeMitarbeiter/Witthaut/Witthaut_node.html" target="_blank">Dirk Witthaut</a> (Forschungszentrum J&uuml;lich)
+			on the Focus Issue 
+		</p>
+		<p style="text-align:center">
+			<a href="https://iopscience.iop.org/journal/2632-072X/page/focus-on-monitoring-and-control-of-complex-supply-systems" target="_blank"><rd>Monitoring and control of complex supply systems</rd></a>.
+		</p>
+		<p class="text"> 
+			The topics covered are:
+			<ul>
+				<li>Complex systems state estimation;
+				<li>Network inference techniques;
+				<li>Learning and control of supply networks;
+				<li>Disturbance identification and mitigation. 
+			</ul>
+		</p>
+		
+		<p class="text">
+			I am happy to discuss any potential submission in more details. 
+			Submission deadline: <b>December 31st, 2022.</b>
+		</p>
+		
+		<hr>
+
+<!-- ======================= About me ========================== -->
+		<h1 id="aboutme">About me</h1>
+		
+		<img src="images/happiness.jpg" alt="RDelabays" style="width: 30vw; margin-right: 15vw; max-width: 250px; min-width: 150px" align="right" hspace="20px" vspace="5px">
+	
+		<p class="text">
+			After obtaining my Master's degree in Mathematics at the University of Geneva, I started a Ph.D. at the University of Applied Sciences of Western Switzerland (HES-SO) in Sion (CH), under supervision of 
+			<a href="https://etranselec.ch" target="_blank">Prof. Philippe Jacquod</a>.
+			Our interest in the stability of power grids led us to investigate the phenomenon of synchronization of newtorked agents, and in particular the conditions for the existence of multiple synchronous states in such a system.
+		</p>
+		
+		<p class="text">
+			After graduating in May 2018, I stayed in Sion as a postdoc, with frequent interactions with 
+			<a href="https://people.ee.ethz.ch/floriand/index.html" target="_blank">Prof. Florian D&ouml;rfler</a> 
+			at ETH Zurich.
+			Most of my work since then aims at a better understanding of the interplay between network structures and dynamics in systems of coupled dynamics agents.
+		</p>
+		
+		<p class="text">
+			In 2019, I had the oportunity to visit the 
+			<a href="https://cnls.lanl.gov/External/" target="_blank">Center for Nonlinear Studies</a> 
+			(CNLS) at the Los Alamos National Laboratory (LANL).
+			There, my work with 
+			<a href="https://lptms.u-psud.fr/andrey-lokhov/" target="_blank">Andrey Lokhov</a> 
+			and 
+			<a href="https://www.vuffray.com" target="_blank">Marc Vuffray</a> 
+			was directed towards the localization of disturbances in high-voltage power grids.
+		</p>
+
+		<p class="text">
+			In 2020, I have been granted a Postdoc.Mobility grant from the Swiss National Science Foundation. 
+			This funding allowed me to work for two years in the group of 
+			<a href="https://motion.me.ucsb.edu/group.html" target="_blank">Prof. Francesco Bullo</a> 
+			at the University of California in Santa Barbara.
+			We managed to extend our understanding of multistability in networks of coupled oscillators to dissipative systems.
+		</p>
+
+		<p class="text">
+			Since August 2022, I am an Assistant Professor at the School of Engineering of the University of Applied Sciences of Western Switzerland (HES-SO), in Sion (CH). 
+			I am teach mathematics young engineers and pursuing my research on the interplay between network structures and dynamical systems, with special focus on power grids.
+		</p>
+
+		<p class="text">
+			A more formal CV, including a list of publications, can be found 
+			<a href="docs/cv_rdelabays.pdf" target="_blank">here</a>.
+		</p>
+
+		<h3 class="list">Recent occupations at a glance:</h3>
+		<p class="list">
+			<b>Since Aug. 2022:</b> Assistant Professor at HES-SO.<br>
+			<b>Oct. 2020 - Aug. 2022:</b> Postdoc at UCSB with Prof. F. Bullo.<br>
+			<b>Jun. 2018 - Jul. 2020:</b> Postdoc between HES-SO and ETHZ with Profs. P. Jacquod and F. D&ouml;rfler.<br>
+			<b>Jul. - Aug. 2019:</b> Visiting postdoc at LANL with A. Lokhov and M. Vuffray.<br>
+			<b>Dec. 2014 - May 2018:</b> PhD at HES-SO with Prof. P. Jacquod.
+		</p>
+
+		<a href="#top" class="btt">Back to top</a>
+
+
+		<hr>
+
+<!-- ========================== My Research ========================= -->
+		<h1 id="myresearch">My research</h1>
+		<p class="text">
+			Working on the stability of electrical networks with a mathematical background naturally led me to investigate the relation between dynamical systems and complex networks.
+		</p>
+
+		<p class="text">
+			On one hand, it is clear that the network structure underlying a dynamical system influences its dynamics. 
+			Determining the impact of some network structures on the dynamics of a system is still an ongoing field of research.
+		</p>
+
+		<p class="text">
+			On the other hand, if the underlying network is unkown, observations of the system can give enough information to recover some characteristics of the network. 
+			Such an approach aims at learning the underlying system from measurements data.
+		</p>
+
+		<p class="text">
+			Currently, my research interests cover the two faces of this coin. 
+			In particular, with 
+			<a href="https://etranselec.ch" target="_blank">P. Jacquod</a>, 
+			<a href="https://scholar.google.com/citations?user=3qLsLGYAAAAJ&hl=en" target="_blank">T. Coletta</a>, 
+			and 
+			<a href="https://www.melvyntyloo.com" target="_blank">M. Tyloo</a>,
+			we showed how the number and size of cycles in a network of dynamical agents influence the number of equilibria of the whole system. 
+			More recently, with 
+			<a href="https://motion.me.ucsb.edu/group.html" target="_blank">F. Bullo</a>
+			and
+			<a href="https://sites.engineering.ucsb.edu/~saber.jafarpour/" target="_blank">S. Jafarpour</a>, 
+			we extended the analysis of networked coupled oscillators to systems with dissipative or lossy couplings. 
+			Looking at the other side of the problem, with 
+			<a href="https://etranselec.ch" target="_blank">P. Jacquod</a>, 
+			<a href="https://scholar.google.com/citations?hl=en&user=2d7KHqsAAAAJ" target="_blank">L. Pagnier</a>, 
+			and
+			<a href="https://www.melvyntyloo.com" target="_blank">M. Tyloo</a>,
+			we proposed some methods to leverage the information included in measurements in order to recover the underlying network structure or the source of a disturbance in a dynamical system.
+		</p>
+		
+		<a href="#top" class="btt">Back to top</a>
+
+
+		<hr>
+
+<!-- ================================= Publications =========================== -->
+		<h1 id="publications">Publications</h1>
+		
+		<p>
+			A pdf version of my list of publication is available in 
+			<a href="docs/cv_rdelabays.pdf" target="_blank">my CV</a>. 
+			All manuscripts are available on the 
+			<a href="https://arxiv.org/search/?searchtype=author&query=Delabays,+R" target="_blank">arXiv</a>.
+		</p>
+		
+<!-- ======================= Preprints ================================ -->
+		
+		<h2>Preprints</h2>
+		
+		<ul>
+			<li>
+				<rd>R. Delabays</rd>, A. Y. Lokhov, M. Tyloo, and M. Vuffray,
+				<a href="docs/articles/Delabays22e.pdf" target="_blank" class="publication">Locating the source of forced oscillations in transmission power grids</a>,
+				submitted (2022).
+				<br><ps>arXiv: <a href="https://arxiv.org/abs/2211.16064" target="_blank">2211.16064</a>
+		</ul>
+
+
+<!-- =============================== Peer-reviewed ========================= -->
+		<h2>Peer-reviewed</h2>
+
+		<ul>
+			<li>
+				T. T. Nguyen, R. C. Budzinski, F. W. Pasini, <rd>R. Delabays</rd>, J. Min&aacute;&#269;, and L. E. Muller,
+				<a href="docs/articles/Nguyen23.pdf" target="_blank" class="publication">Broadcasting solutions on networked systems of phase oscillators</a>,
+				Chaos Solitons Fractals <b>168</b>, 113166 (2023).
+				<br><ps>DOI: <a href="https://doi.org/10.1016/j.chaos.2023.113166" target="_blank">10.1016/j.chaos.2023.113166</a>
+				<ps>arXiv: <a href="https://arxiv.org/abs/2209.05970" target="_blank">2209.05970</a>
+
+			<li>
+				<rd>R. Delabays</rd>, S. Jafarpour, and F. Bullo,
+				<a href="docs/articles/Delabays22d.pdf" target="_blank" class="publication">Multistability and anomalies in oscillator models of lossy power grids</a>,
+				Nat. Commun. <b>13</b>, 5238 (2022).
+				<br><ps>DOI: <a href="https://doi.org/10.1038/s41467-022-32931-8" target="_blank">10.1038/s41467-022-32931-8</a>
+				- <ps>arXiv: <a href="https://arxiv.org/abs/2202.02439" target="_blank">2202.02439</a>
+
+			<li>
+				<rd>R. Delabays</rd> and M. Tyloo,
+				<a href="docs/articles/Delabays22c.pdf" target="_blank" class="publication">Heavy-tailed distribution of the number of papers within scientific journals</a>,
+				Quant. Sci. Studies <b>3</b>, 776 (2022).
+				<br><ps>DOI: <a href="https://doi.org/10.1162/qss_a_00201" target="_blank">10.1162/qss_a_00201</a>
+				- <ps>arXiv: <a href="https://arxiv.org/abs/2011.05703" target="_blank">2011.05703</a>
+
+			<li>
+				<rd>R. Delabays</rd>, L. Pagnier, and M. Tyloo,
+				<a href="docs/articles/Delabays22b.pdf" target="_blank" class="publication">Locating fast-varying line disturbances with the frequency mismatch</a>,
+				IFAC-PapersOnLine <b>55</b>, 270 (2022).
+				<br><ps>DOI: <a href="https://doi.org/10.1016/j.ifacol.2022.07.271" target="_blank">10.1016/j.ifacol.2022.07.271</a>
+				- <ps>arXiv: <a href="https://arxiv.org/abs/2202.08317" target="_blank">2202.08317</a>
+
+			<li>
+				M. Tyloo, <rd> R. Delabays</rd>, and P. Jacquod,
+				<a href="docs/articles/Tyloo21a.pdf" target="_blank" class="publication">Reconstructing network structures from partial measurements</a>,
+				Chaos <b>31</b>, 103117 (2021).
+				<br><ps>DOI: <a href="https://doi.org/10.1063/5.0058739" target="_blank">10.1063/5.0058739</a>
+				 - <ps>arXiv: <a href="https://arxiv.org/abs/2007.16136" target="_blank">2007.16136</a>
+			
+			<li>
+				<rd> R. Delabays</rd> and M. Tyloo,
+				<a href="docs/articles/Delabays21a.pdf" target="_blank" class="publication">Network Inference using Sinusoidal Probing</a>,
+				IFAC-PapersOnLine <b>54</b>, 696 (2021).
+				<br><ps>DOI: <a href="https://doi.org/10.1016/j.ifacol.2021.06.131" target="_blank">10.1016/j.ifacol.2021.06.131</a>
+				 - <ps>arXiv: <a href="https://arxiv.org/abs/2002.00490" target="_blank">2002.00490</a>
+
+			<li>
+				<rd> R. Delabays</rd>, L. Pagnier, and M. Tyloo,
+				<a href="docs/articles/Delabays21b.pdf" target="_blank" class="publication">Locating line and node disturbances in networks of diffusively coupled dynamical agents</a>,
+				New J. Phys. <b>23</b>, 043037 (2021).
+				<br><ps>DOI: <a href="https://doi.org/10.1088/1367-2630/abf54b" target="_blank">10.1088/1367-2630/abf54b</a>
+				 - <ps>arXiv: <a href="https://arxiv.org/abs/2003.08786" target="_blank">2003.08786</a>
+
+			<li>
+				M. Tyloo and <rd> R. Delabays</rd>,
+				<a href="docs/articles/Tyloo21b.pdf" target="_blank" class="publication">System size identification from sinusoidal probing in diffusive complex networks</a>,
+				J. Phys. Complex. <b>2</b>, 025016 (2021).
+				<br><ps>DOI: <a href="https://doi.org/10.1088/2632-072X/abebd3" target="_blank">10.1088/2632-072X/abebd3</a>
+				 - <ps>arXiv: <a href="https://arxiv.org/abs/2009.03824" target="_blank">2009.03824</a>
+
+			<li>
+				A. Reggio, <rd> R. Delabays</rd>, and P. Jacquod,
+				<a href="docs/articles/Reggio20a.pdf" target="_blank" class="publication">Clusterization and phase diagram of the bimodal Kuramoto model with bounded confidence</a>,
+				Chaos <b>30</b>, 093134 (2020).
+				<br><ps>DOI: <a href="https://doi.org/10.1063/5.0020436" target="_blank">10.1063/5.0020436</a>
+				 - <ps>arXiv: <a href="https://arxiv.org/abs/1906.05698" target="_blank">1906.05698</a>
+
+			<li>
+				<rd> R. Delabays</rd>,
+				<a href="docs/articles/Delabays19a.pdf" target="_blank" class="publication">Dynamical equivalence between Kuramoto models with first- and higher-order coupling</a>,
+				Chaos <b>29</b>, 113129 (2019).
+				<br><ps>DOI: <a href="https://doi.org/10.1063/1.5118941" target="_blank">10.1063/1.5118941</a>
+				 - <ps>arXiv: <a href="https://arxiv.org/abs/1907.03699" target="_blank">1907.03699</a>
+
+			<li>
+				<rd> R. Delabays</rd>, M. Tyloo, and P. Jacquod,
+				<a href="docs/articles/Delabays19b.pdf" target="_blank" class="publication">Rate of change of frequency under line contingencies in high voltage electric power networks with uncertainties</a>,
+				Chaos <b>29</b>, 103130 (2019).
+				<br><ps>DOI: <a href="https://doi.org/10.1063/1.5115002" target="_blank">10.1063/1.5115002</a>
+				 - <ps>arXiv: <a href="https://arxiv.org/abs/1906.05698" target="_blank">1906.05698</a>
+
+			<li>
+				M. Tyloo, <rd> R. Delabays</rd>, and P. Jacquod,
+				<a href="docs/articles/Tyloo19a.pdf" target="_blank" class="publication">Noise-induced desynchronization and stochastic escape from equilibrium in complex networks</a>,
+				Phys. Rev. E <b>99</b>, 062213 (2019).
+				<br><ps>DOI: <a href="https://doi.org/10.1103/PhysRevE.99.062213" target="_blank">10.1103/PhysRevE.99.062213</a>
+				 - <ps>arXiv: <a href="https://arxiv.org/abs/1812.09497" target="_blank">1812.09497</a>
+
+			<li>
+				D. Cimasoni and <rd> R. Delabays</rd>,
+				<a href="docs/articles/Cimasoni19a.pdf" target="_blank" class="publication">The topological hypothesis for discrete spin models</a>,
+				J. Stat. Mech. <b>2019</b> (2019).
+				<br><ps>DOI: <a href="https://doi.org/10.1088/1742-5468/ab0c14" target="_blank">10.1088/1742-5468/ab0c14</a>
+				 - <ps>arXiv: <a href="https://arxiv.org/abs/1811.10263" target="_blank">1811.10263</a>
+
+			<li>
+				<rd> R. Delabays</rd>, P. Jacquod, and F. D&ouml;rfler,
+				<a href="docs/articles/Delabays19c.pdf" target="_blank" class="publication">The Kuramoto Model on Oriented and Signed Graphs</a>,
+				SIAM J. Appl. Dyn. Syst. <b>18</b>, 458 (2019).
+				<br><ps>DOI: <a href="https://doi.org/10.1137/18M1203055" target="_blank">10.1137/18M1203055</a>
+				 - <ps>arXiv: <a href="https://arxiv.org/abs/1807.11410" target="_blank">1807.11410</a>
+
+			<li>
+				<rd> R. Delabays</rd>, M. Tyloo, and P. Jacquod,
+				<a href="docs/articles/Delabays17a.pdf" target="_blank" class="publication">The size of the sync basin revisited</a>,
+				Chaos <b>27</b>, 103109 (2017).
+				<br><ps>DOI: <a href="https://doi.org/10.1063/1.4986156" target="_blank">10.1063/1.4986156</a>
+				 - <ps>arXiv: <a href="https://arxiv.org/abs/1706.00344" target="_blank">1706.00344</a>
+
+			<li>
+				T. Coletta, <rd> R. Delabays</rd>, and P. Jacquod,
+				<a href="docs/articles/Coletta17a.pdf" target="_blank" class="publication">Finite-size scaling in the Kuramoto model</a>,
+				Phys. Rev. E <b>95</b>, 103117 (2017).
+				<br><ps>DOI: <a href="https://doi.org/10.1103/PhysRevE.95.042207" target="_blank">10.1103/PhysRevE.95.042207</a>
+				 - <ps>arXiv: <a href="https://arxiv.org/abs/1612.07031" target="_blank">1612.07031</a>
+
+			<li>
+				<rd> R. Delabays</rd>, T. Coletta, and P. Jacquod,
+				<a href="docs/articles/Delabays17b.pdf" target="_blank" class="publication">Multistability of phase-locking in equal-frequency Kuramoto models on planar graphs</a>,
+				J. Math. Phys. <b>58</b>, 032703 (2017).
+				<br><ps>DOI: <a href="https://doi.org/10.1063/1.4978697" target="_blank">10.1063/1.4978697</a>
+				 - <ps>arXiv: <a href="https://arxiv.org/abs/1609.02359" target="_blank">1609.02359</a>
+			<li>
+				T. Coletta, <rd> R. Delabays</rd>, I. Adagideli, and P. Jacquod,
+				<a href="docs/articles/Coletta16a.pdf" target="_blank" class="publication">Topologically protected loop flows in high voltage AC power grids</a>,
+				New. J. Phys. <b>18</b>, 103042 (2016).
+				<br><ps>DOI: <a href="https://doi.org/10.1088/1367-2630/18/10/103042" target="_blank">10.1088/1367-2630/18/10/103042</a>
+				 - <ps>arXiv: <a href="https://arxiv.org/abs/1605.07925" target="_blank">1605.07925</a>
+
+			<li>
+				<rd> R. Delabays</rd>, T. Coletta, and P. Jacquod,
+				<a href="docs/articles/Delabays16a.pdf" target="_blank" class="publication">Multistability of phase-locking and topological winding numbers in locally coupled Kuramoto models on single-loop networks</a>,
+				J. Math. Phys. <b>57</b>, 032701 (2016).
+				<br><ps>DOI: <a href="https://doi.org/10.1063/1.4943296" target="_blank">10.1063/1.4943296</a>
+				 - <ps>arXiv: <a href="https://arxiv.org/abs/1512.04266" target="_blank">1512.04266</a>
+
+			<li>
+				T. Coletta, <rd> R. Delabays</rd>, L. Pagnier, and P. Jacquod,
+				<a href="docs/articles/Coletta16b.pdf" target="_blank" class="publication">Large Electric Load Fluctuations in Energy-efficient Buildings and how to Suppress them with Demand Side Management</a>,
+				IEEE PES ISGT Conf. Europe (2016).
+				<br><ps>DOI: <a href="https://doi.org/10.1109/ISGTEurope.2016.7856328" target="_blank">10.1109/ISGTEurope.2016.7856328</a>
+
+
+		</ul>
+		
+<!-- =============================== Softwares ================================= -->
+		<h2>Softwares</h2>
+		
+		<ul>
+			<li>
+				<rd>R. Delabays</rd>, A. Y. Lokhov, M. Tyloo, and M. Vuffray,
+				<i>SALO: System-Agnostic Localization of Oscillatons</i>, GitHub (2022).
+				URL: <a href="https://github.com/lanl-ansi/SALO" target="_blank">github.com/lanl-ansi/SALO</a>
+
+			<li>
+				<rd>R. Delabays</rd>,
+				<i>ADGenerator: Authors Distribution Generator (v1.1)</i>, Zenodo (2022).
+				DOI: <a href="https://doi.org/10.5281/zenodo.6030302" target="_blank">10.5281/zenodo.6030302</a>
+
+			<li>
+				<rd>R. Delabays</rd>,
+				<i>DFNSolver: Dissipative Flow Networks Solver (v1.2)</i>, Zenodo (2022).
+				DOI: <a href="https://doi.org/10.5281/zenodo.5899407" target="_blank">10.5281/zenodo.5899407</a>
+		</ul>
+		
+<!-- =============================== Talks and posters ========================= -->
+		<h2>Talks and posters</h2>
+		<p><i>All conference material is under CC-BY license.</i></p>
+
+		<ul>
+			<li>
+				<b>Sep. 13 - 15, 2022:</b> SIAM Network Science Workshop 2022, Online.
+				<br><rd>Talk:</rd> <a href="docs/conferences/SIAM-NS22.pdf" target="_blank" class="publication">Complex networks of lossy oscillators: Multistability, anomalies, and loop flows in power grids</a>.
+
+			<li>
+				<b>Jul. 13 - 15, 2022:</b> Autonomous Energy Systems Workshop, NREL, Golden (CO), USA.
+				<br><rd>Poster:</rd> <a href="docs/conferences/NREL22.pdf" target="_blank" class="publication">Locating the source of forced oscillations: A system-agnostic approach</a>.
+
+			<li>
+				<b>Jul. 5 - 7, 2022:</b> NecSys 2022, Zurich, Switzerland.
+				<br><rd>Poster:</rd> <a href="docs/conferences/Zurich22.pdf" target="_blank" class="publication">Locating fast-varying line disturbances with the frequency mismatch</a>.
+
+			<li>
+				<b>Apr. 27, 2022:</b> CNLS Seminar, Los Alamos National Laboratory (NM), USA.
+				<br><rd>Talk:</rd> <a href="docs/conferences/LANL22.pdf" target="_blank" class="publication">From undirected to directed diffusive networks of dynamical agents</a>.
+				
+			<li>
+				<b>Apr. 20, 2022:</b> SFI Seminar, Santa Fe Institute (NM), USA.
+				<br><rd>Talk:</rd> <a href="docs/conferences/SFI22.pdf" target="_blank" class="publication">From undirected to directed diffusive networks of dynamical agents</a>.
+				
+			<li>
+				<b>Oct. 25 - 29, 2021:</b> Conference on Complex Systems 2021, Lyon, France.
+				<br><rd>Talk:</rd> <a href="docs/conferences/Lyon21.pdf" target="_blank" class="publication">Flow Network Problems on the n-torus with Asymmetric Couplings</a>.
+
+			<li>
+				<b>Jul. 5 - 10, 2021:</b> Networks 2021, Online.
+				<br><rd>Talk:</rd> <a href="docs/conferences/Networks21.pdf" target="_blank" class="publication">Reconstructing Network Structures from Partial Measurements</a>.
+
+			<li>
+				<b>Jan. 11 - 15, 2021:</b> Grid Science Conference 2021, Online, hosted by Los Alamos National Laboratory (NM), USA.
+				<br><rd>Poster:</rd> <a href="docs/conferences/SantaFe21.pdf" target="_blank" class="publication">Reconstructing Network Structures from Partial Measurements</a>.
+
+			<li>
+				<b>Nov. 4 - 8, 2019:</b> Network Dynamics in the Social, Economic, and Financial Sciences, Torino, Italy.
+				<br><rd>Talk:</rd> <a href="docs/conferences/Torino19.pdf" target="_blank" class="publication">Robustness of Election Results Against External Influence</a>.
+
+			<li>
+				<b>Sep. 23 - 26, 2019:</b> International Workshop on Complex Systems and Networks, Berlin, Germany.
+				<br><rd>Talk:</rd> <a href="docs/conferences/Berlin19.pdf" target="_blank" class="publication">Rate of Change of Frequency under Line Contingencies</a>.
+
+			<li>
+				<b>Feb 3 - 8, 2019:</b> Future Electric Power Systems, Champ&eacute;ry, Switzerland.
+				<br><rd>Poster:</rd> <a href="docs/conferences/Champery19.pdf" target="_blank" class="publication">Bounding the Desynchronization Time in Electrical Grids under Fluctuating Sources</a>.
+
+			<li>
+				<b>Jan. 18, 2019:</b> CCDC Seminar, Santa Barbara (CA), USA.
+				<br><rd>Talk:</rd> <a href="docs/conferences/SantaBarbara19.pdf" target="_blank" class="publication">Bounding the Destabilization Time in Networks of Noisy Oscillators</a>.
+
+			<li>
+				<b>Jan. 7 - 11, 2019:</b> Grid Science Conference, Santa Fe (NM), USA.
+				<br><rd>Poster:</rd> <a href="docs/conferences/SantaFe19.pdf" target="_blank" class="publication">Bounding the Desynchronization Time in Electrical Grids under Fluctuating Sources</a>.
+
+			<li>
+				<b>Sep. 3 - 7, 2018:</b> Dynamics Days Europe, Loughborough, UK.
+				<br><rd>Talk:</rd> <a href="docs/conferences/Loughborough18.pdf" target="_blank" class="publication">Multistability in Electric Power Grids on Meshed, Complex Networks</a>.
+
+			<li>
+				<b>Jan. 29 - 31, 2018:</b> WE-Hereaus Seminar, Bad Honnef, Germany.
+				<br><rd>Poster:</rd> <a href="docs/conferences/BadHonnef18.pdf" target="_blank" class="publication">The Size of the Sync Basin Revisited</a>.
+
+			<li>
+				<b>Sep. 3 - 8, 2017:</b> International School on Energy Systems, Kloster Seeon, Germany.
+				<br><rd>Poster:</rd> <a href="docs/conferences/KlosterSeeon17.pdf" target="_blank" class="publication">Topologically Protected Loop Flows in High Voltage AC Power Grids</a>.
+
+			<li>
+				<b>Feb. 5 - 9, 2017:</b> Future Electric Power Systems, Champ&eacute;ry, Switzerland.
+				<br><rd>Talk:</rd> <a href="docs/conferences/Champery17.pdf" target="_blank" class="publication">Loop Flows and the Number of Power Flow Solutions in Meshed Electric Power Grids</a>.
+
+			<li>
+				<b>Jan. 8 - 13, 2017:</b> Grid Science Conference, Santa Fe (NM), USA.
+				<br><rd>Poster:</rd> <a href="docs/conferences/SantaFe17.pdf" target="_blank" class="publication">Multistability of Phase-Locking and Vortices in Locally Coupled Kuramoto Models</a>.
+
+			<li>
+				<b>Jun. 6 - 10, 2016</b> Dynamics Days Europe, Corfu, Greece.
+				<br><rd>Talk:</rd> <a href="docs/conferences/Corfu16.pdf" target="_blank" class="publication">Multistability of Phase-Locking and Topological Winding Numbers in Locally Coupled Kuramoto Models</a>.
+
+		</ul>
+		
+<!-- =============================== Ph.D. Thesis ========================= -->
+		<h2>Ph.D. Thesis</h2>
+
+		<ul>
+			<li>
+				<rd>R. Delabays</rd>, <a href="docs/phd_thesis_rdelabays.pdf" target="_blank" class="publication">Loop Flows in the Kuramoto Model</a>, University of Geneva (2018).
+				<br><ps>DOI: <a href="https://doi.org/10.13097/archive-ouverte/unige:106921" target="_blank">10.13097/archive-ouverte/unige:106921</a>
+
+		</ul>
+		
+				<a href="#top" class="btt">Back to top</a>
+
+		<hr>
+		
+<!-- ============================= CCS 2021 ==================================== -->
+		<img src="images/ccs21.jpg" alt="CCS21" style="width:5vw; max-width:125px; min-width:80px; margin-right:15vw;" align="right" hspace="20px">
+		
+		<h1 id="ccs21">CCS 2021 - Satellite Symposium</h1>
+	
+		<p>
+		In October 2021, I co-organized the Satellite Symposium 
+		<a href="./ccs-satellite"><rd>Data-based Diagnosis of Networked Dynamical Systems</rd></a> 
+		at the 
+		<a href="https://ccs2021.univ-lyon1.fr" target="_blank">Conference on Complex Systems</a>
+		in Lyon, with L. Pagnier and M. Tyloo. 
+		</p>
+
+		<p>
+		We had a great panel of speakers, both on-site and online. 
+		It was really nice to attend live talks again.
+		</p>
+		
+		<br>
+
+		<a href="#top" class="btt">Back to top</a>
+
+		<hr>
+		
+<!-- ============================= GeoCoW 2020 ==================================== -->
+		<img src="images/geocow.png" alt="GeoCoW" style="width:20vw; max-width:250px; min-width:120px; margin-right:15vw;" align="right" hspace="20px">
+
+		<h1 id="geocow20">GeoCoW 2020</h1>
+		
+		<p>
+		From February 2nd to 5th, 2020, I co-organized the workshop <a href="https://sites.google.com/view/geocow2020/home" target="_blank"><rd>Geometry of Complex Webs (GeoCoW)</rd></a> with Matthieu Jacquemet (HES-SO and UniFR) and Christian Mazza (UniFR). 
+		It took place in the nice alpine village of Les Diablerets, Switzerland.
+		</p>
+
+		<p>
+		We gathered speakers and attendees from broad backgrounds, ranging from pure mathematicians to engineers, including physicists, life scientists, and computer scientists. 
+		The aim of this workshop was to encourage people from different field to interact around the interdisciplinary topic of complex networks and see opportunities for new and rich collaborations.
+		</p>
+				
+		<a href="#top" class="btt">Back to top</a>
+
+		
+<!-- ======================== Page footer =================================== -->
+		<div class="footer">
+			<p class="footer">
+				<br><br>
+				Last updated on November 30th, 2022.
+				<br><br><br>
+			</p>
+		</div>
+	</body>
+</html>
+
