@@ -26,8 +26,8 @@
 		</div>
 		
 <!-- =========================== Social media links ===================== -->
-		<a href="https://publons.com/resracher/1454260/robin-delabays/" target="_blank">
-			<img src="images/publons.png" alt="Publons" style="width:40px; margin-right:15vw;" class="socialmedia">
+		<a href="http://www.webofscience.com/wos/author/record/A-5901-2019" target="_blank">
+			<img src="images/wos.png" alt="WebOfScience" style="width:40px; margin-right:15vw;" class="socialmedia">
 		</a>
 		<a href="https://www.researchgate.net/profile/Robin_Delabays" target="_blank">
 			<img src="images/researchgate.png" alt="ResearchGate" style="width:40px;margin-right:10px;" class="socialmedia">
@@ -75,7 +75,7 @@
 		
 		<p class="text">
 			I am happy to discuss any potential submission in more details. 
-			Submission deadline: <b>December 31st, 2022.</b>
+			Submission deadline: <b>April 1st, 2023.</b>
 		</p>
 		
 		<hr>
@@ -120,6 +120,12 @@
 		<p class="text">
 			Since August 2022, I am an Assistant Professor at the School of Engineering of the University of Applied Sciences of Western Switzerland (HES-SO), in Sion (CH). 
 			I am teach mathematics young engineers and pursuing my research on the interplay between network structures and dynamical systems, with special focus on power grids.
+		</p>
+		
+		<p class="text">
+			In 2023, I have been invited to join the association 
+			<i><a href="https://www.la-matrice.ch/" target="_blank">La Matrice</a></i>, 
+			whose purpose is to promote sciences and mathematics, through the prism of feminism and sustainability.
 		</p>
 
 		<p class="text">
@@ -215,7 +221,7 @@
 				<a href="docs/articles/Nguyen23.pdf" target="_blank" class="publication">Broadcasting solutions on networked systems of phase oscillators</a>,
 				Chaos Solitons Fractals <b>168</b>, 113166 (2023).
 				<br><ps>DOI: <a href="https://doi.org/10.1016/j.chaos.2023.113166" target="_blank">10.1016/j.chaos.2023.113166</a>
-				<ps>arXiv: <a href="https://arxiv.org/abs/2209.05970" target="_blank">2209.05970</a>
+				- <ps>arXiv: <a href="https://arxiv.org/abs/2209.05970" target="_blank">2209.05970</a>
 
 			<li>
 				<rd>R. Delabays</rd>, S. Jafarpour, and F. Bullo,
@@ -371,6 +377,16 @@
 				DOI: <a href="https://doi.org/10.5281/zenodo.5899407" target="_blank">10.5281/zenodo.5899407</a>
 		</ul>
 		
+<!-- =============================== Published peer reviews ==================== -->
+		<h2>Published peer reviews</h2>
+		
+		<ul>
+			<li>
+				R. West and S. Michie, 
+				<i>How many papers are published each week reporting on trials of interventions involving behavioural aspects of health?</i>, Qeios, (2023).
+				DOI: <a href="https://doi.org/10.32388/K2VMTL" target="_blank">10.32388/K2VMTL</a>
+		</ul>
+
 <!-- =============================== Talks and posters ========================= -->
 		<h2>Talks and posters</h2>
 		<p><i>All conference material is under CC-BY license.</i></p>
@@ -514,7 +530,7 @@
 		<div class="footer">
 			<p class="footer">
 				<br><br>
-				Last updated on November 30th, 2022.
+				Last updated on February 6th, 2023.
 				<br><br><br>
 			</p>
 		</div>
