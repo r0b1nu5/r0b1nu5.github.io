@@ -1,3 +1,6 @@
+/* Color HEI: rgb(100,25,60)*/
+/* Color GdF: rgb(98,34,129)*/
+
 .list {
 	margin-left: 17%;
 }
@@ -42,7 +45,7 @@ div.ccs21-header {
 }
 
 div.footer {
-	background-color: rgb(100,25,60);
+	background-color: rgb(98,34,129);
 	color: white;
 	margin-top: 3%;
 	margin-left: -1%;
@@ -51,7 +54,7 @@ div.footer {
 }
 
 div.header {
-	background-color: rgb(100,25,60);
+	background-color: rgb(98,34,129);
 	color: white;
 	margin-left: -1%;
 	margin-right: -1%;
@@ -59,7 +62,7 @@ div.header {
 }
 
 h1 {
-	color: rgb(100,25,60);
+	color: rgb(98,34,129);
 	font-size: 30pt;
 	font-weight: normal;
 	margin-left: 15%;
@@ -94,7 +97,7 @@ h3.ccs21 {
 hr {
 	margin-left: 15%;
 	margin-right: 15%;
-	color: rgb(100,25,60);
+	color: rgb(98,34,129);
 }
 
 li {
@@ -147,7 +150,7 @@ ps {
 }
 
 rd {
-	color: rgb(100,25,60);
+	color: rgb(98,34,129);
 	font-weight: bold;
 }
 
