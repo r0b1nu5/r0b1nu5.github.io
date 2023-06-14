@@ -66,7 +66,7 @@
 		</p>
 		
 		<p class="text">
-			In 2019, I had the oportunity to visit the 
+			In 2019, I had the opportunity to visit the 
 			<a href="https://cnls.lanl.gov/External/" target="_blank">Center for Nonlinear Studies</a> 
 			(CNLS) at the Los Alamos National Laboratory (LANL).
 			There, my work with 
@@ -167,7 +167,7 @@
 		</p>
 		
 <!-- ======================= Preprints ================================ -->
-		
+<!--	
 		<h2>Preprints</h2>
 		
 		<ul>
@@ -178,22 +178,29 @@
 				<br><ps>arXiv: <a href="https://arxiv.org/abs/2211.16064" target="_blank">2211.16064</a>
 		</ul>
 
-
+-->
 <!-- =============================== Peer-reviewed ========================= -->
 		<h2>Peer-reviewed</h2>
 
 		<ul>
 			<li>
+				<rd>R. Delabays</rd>, A. Y. Lokhov, M. Tyloo, and M. Vuffray,
+				<br><a href="docs/articles/Delabays23b.pdf" target="_blank" class="publication">Locating the source of forced oscillations in transmission power grids</a>,
+				<br>Phys. Rev. X Energy <b>2</b>, 023009 (2023).
+				<br><bf><ps>DOI: <a href="https://doi.org/10.1103/PRXEnergy.2.023009" target="_blank">10.1103/PRXEnergy.2.023009</a>
+				- <ps>arXiv: <a href="https://arxiv.org/abs/2211.16064" target="_blank">2211.16064</a>
+
+			<li>
 				<rd>R. Delabays</rd> and F. Bullo,
-				<a href="docs/articles/Delabays23a.pdf" target="_blank" class="publication">Semicontraction and Synchronization of Kuramoto-Sakaguchi Oscillator Networks</a>,
-				IEEE Control Syst. Lett. <b>7</b>, 1566 (2023).
-				<bf><ps>DOI: <a href="https://doi.org/10.1109/LCSYS.2023.3275169" target="_blank">10.1109/LCSYS.2023.3275169</a>
+				<br><a href="docs/articles/Delabays23a.pdf" target="_blank" class="publication">Semicontraction and Synchronization of Kuramoto-Sakaguchi Oscillator Networks</a>,
+				<br>IEEE Control Syst. Lett. <b>7</b>, 1566 (2023).
+				<br><bf><ps>DOI: <a href="https://doi.org/10.1109/LCSYS.2023.3275169" target="_blank">10.1109/LCSYS.2023.3275169</a>
 				- <ps>arXiv: <a href="https://arxiv.org/abs/2303.10127" target="_blank">2303.10127</a>
 				
 			<li>
 				T. T. Nguyen, R. C. Budzinski, F. W. Pasini, <rd>R. Delabays</rd>, J. Min&aacute;&#269;, and L. E. Muller,
-				<a href="docs/articles/Nguyen23.pdf" target="_blank" class="publication">Broadcasting solutions on networked systems of phase oscillators</a>,
-				Chaos Solitons Fractals <b>168</b>, 113166 (2023).
+				<br><a href="docs/articles/Nguyen23.pdf" target="_blank" class="publication">Broadcasting solutions on networked systems of phase oscillators</a>,
+				<br>Chaos Solitons Fractals <b>168</b>, 113166 (2023).
 				<br><ps>DOI: <a href="https://doi.org/10.1016/j.chaos.2023.113166" target="_blank">10.1016/j.chaos.2023.113166</a>
 				- <ps>arXiv: <a href="https://arxiv.org/abs/2209.05970" target="_blank">2209.05970</a>
 
@@ -534,7 +541,7 @@
 		<div class="footer">
 			<p class="footer">
 				<br><br>
-				Last updated on May 18th, 2023.
+				Last updated on June 8th, 2023.
 				<br><br><br>
 			</p>
 		</div>
