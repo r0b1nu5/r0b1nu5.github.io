@@ -52,6 +52,14 @@
 		
 		<img src="images/rd.jpg" alt="RDelabays" style="width: 30vw; margin-right: 15vw; max-width: 250px; min-width: 150px" align="right" hspace="20px" vspace="5px">
 	
+		<p class="list">
+			<b>Since Aug. 2022:</b> Assistant Professor at HES-SO, in Sion, Switzerland.<br>
+			<b>Oct. 2020 - Aug. 2022:</b> Postdoc at UCSB with Prof. F. Bullo.<br>
+			<b>Jun. 2018 - Jul. 2020:</b> Postdoc between HES-SO and ETHZ with Profs. P. Jacquod and F. D&ouml;rfler.<br>
+			<b>Jul. - Aug. 2019:</b> Visiting postdoc at LANL with A. Lokhov and M. Vuffray.<br>
+			<b>Dec. 2014 - May 2018:</b> PhD at HES-SO with Prof. P. Jacquod.
+		</p>
+
 		<p class="text">
 			After obtaining my Master's degree in Mathematics at the University of Geneva, I started a Ph.D. at the University of Applied Sciences of Western Switzerland (HES-SO) in Sion (CH), under supervision of 
 			<a href="https://etranselec.ch" target="_blank">Prof. Philippe Jacquod</a>.
@@ -98,15 +106,6 @@
 		<p class="text">
 			A more formal CV, including a list of publications, can be found 
 			<a href="docs/cv-rdelabays.pdf" target="_blank">here</a>.
-		</p>
-
-		<h3 class="list">Recent occupations at a glance:</h3>
-		<p class="list">
-			<b>Since Aug. 2022:</b> Assistant Professor at HES-SO.<br>
-			<b>Oct. 2020 - Aug. 2022:</b> Postdoc at UCSB with Prof. F. Bullo.<br>
-			<b>Jun. 2018 - Jul. 2020:</b> Postdoc between HES-SO and ETHZ with Profs. P. Jacquod and F. D&ouml;rfler.<br>
-			<b>Jul. - Aug. 2019:</b> Visiting postdoc at LANL with A. Lokhov and M. Vuffray.<br>
-			<b>Dec. 2014 - May 2018:</b> PhD at HES-SO with Prof. P. Jacquod.
 		</p>
 
 		<a href="#top" class="btt">Back to top</a>
@@ -185,36 +184,36 @@
 		<ul>
 			<li>
 				<rd>R. Delabays</rd>, A. Y. Lokhov, M. Tyloo, and M. Vuffray,
-				<br><a href="docs/articles/Delabays23b.pdf" target="_blank" class="publication">Locating the source of forced oscillations in transmission power grids</a>,
-				<br>Phys. Rev. X Energy <b>2</b>, 023009 (2023).
-				<br><bf><ps>DOI: <a href="https://doi.org/10.1103/PRXEnergy.2.023009" target="_blank">10.1103/PRXEnergy.2.023009</a>
+				<a href="docs/articles/Delabays23b.pdf" target="_blank" class="publication">Locating the source of forced oscillations in transmission power grids</a>,
+				Physical Review X Energy <b>2</b>, 023009 (2023).
+				<br><ps>DOI: <a href="https://doi.org/10.1103/PRXEnergy.2.023009" target="_blank">10.1103/PRXEnergy.2.023009</a>
 				- <ps>arXiv: <a href="https://arxiv.org/abs/2211.16064" target="_blank">2211.16064</a>
 
 			<li>
 				<rd>R. Delabays</rd> and F. Bullo,
-				<br><a href="docs/articles/Delabays23a.pdf" target="_blank" class="publication">Semicontraction and Synchronization of Kuramoto-Sakaguchi Oscillator Networks</a>,
-				<br>IEEE Control Syst. Lett. <b>7</b>, 1566 (2023).
-				<br><bf><ps>DOI: <a href="https://doi.org/10.1109/LCSYS.2023.3275169" target="_blank">10.1109/LCSYS.2023.3275169</a>
+				<a href="docs/articles/Delabays23a.pdf" target="_blank" class="publication">Semicontraction and Synchronization of Kuramoto-Sakaguchi Oscillator Networks</a>,
+				IEEE Control Systems Letters <b>7</b>, 1566 (2023).
+				<br><ps>DOI: <a href="https://doi.org/10.1109/LCSYS.2023.3275169" target="_blank">10.1109/LCSYS.2023.3275169</a>
 				- <ps>arXiv: <a href="https://arxiv.org/abs/2303.10127" target="_blank">2303.10127</a>
 				
 			<li>
 				T. T. Nguyen, R. C. Budzinski, F. W. Pasini, <rd>R. Delabays</rd>, J. Min&aacute;&#269;, and L. E. Muller,
-				<br><a href="docs/articles/Nguyen23.pdf" target="_blank" class="publication">Broadcasting solutions on networked systems of phase oscillators</a>,
-				<br>Chaos Solitons Fractals <b>168</b>, 113166 (2023).
+				<a href="docs/articles/Nguyen23.pdf" target="_blank" class="publication">Broadcasting solutions on networked systems of phase oscillators</a>,
+				Chaos, Solitons, and Fractals <b>168</b>, 113166 (2023).
 				<br><ps>DOI: <a href="https://doi.org/10.1016/j.chaos.2023.113166" target="_blank">10.1016/j.chaos.2023.113166</a>
 				- <ps>arXiv: <a href="https://arxiv.org/abs/2209.05970" target="_blank">2209.05970</a>
 
 			<li>
 				<rd>R. Delabays</rd>, S. Jafarpour, and F. Bullo,
 				<a href="docs/articles/Delabays22d.pdf" target="_blank" class="publication">Multistability and anomalies in oscillator models of lossy power grids</a>,
-				Nat. Commun. <b>13</b>, 5238 (2022).
+				Nature Communications <b>13</b>, 5238 (2022).
 				<br><ps>DOI: <a href="https://doi.org/10.1038/s41467-022-32931-8" target="_blank">10.1038/s41467-022-32931-8</a>
 				- <ps>arXiv: <a href="https://arxiv.org/abs/2202.02439" target="_blank">2202.02439</a>
 
 			<li>
 				<rd>R. Delabays</rd> and M. Tyloo,
 				<a href="docs/articles/Delabays22c.pdf" target="_blank" class="publication">Heavy-tailed distribution of the number of papers within scientific journals</a>,
-				Quant. Sci. Studies <b>3</b>, 776 (2022).
+				Quantitative Science Studies <b>3</b>, 776 (2022).
 				<br><ps>DOI: <a href="https://doi.org/10.1162/qss_a_00201" target="_blank">10.1162/qss_a_00201</a>
 				- <ps>arXiv: <a href="https://arxiv.org/abs/2011.05703" target="_blank">2011.05703</a>
 
@@ -242,14 +241,14 @@
 			<li>
 				<rd> R. Delabays</rd>, L. Pagnier, and M. Tyloo,
 				<a href="docs/articles/Delabays21b.pdf" target="_blank" class="publication">Locating line and node disturbances in networks of diffusively coupled dynamical agents</a>,
-				New J. Phys. <b>23</b>, 043037 (2021).
+				New Journal of Physics <b>23</b>, 043037 (2021).
 				<br><ps>DOI: <a href="https://doi.org/10.1088/1367-2630/abf54b" target="_blank">10.1088/1367-2630/abf54b</a>
 				 - <ps>arXiv: <a href="https://arxiv.org/abs/2003.08786" target="_blank">2003.08786</a>
 
 			<li>
 				M. Tyloo and <rd> R. Delabays</rd>,
 				<a href="docs/articles/Tyloo21b.pdf" target="_blank" class="publication">System size identification from sinusoidal probing in diffusive complex networks</a>,
-				J. Phys. Complex. <b>2</b>, 025016 (2021).
+				Journal of Physics: Complexity <b>2</b>, 025016 (2021).
 				<br><ps>DOI: <a href="https://doi.org/10.1088/2632-072X/abebd3" target="_blank">10.1088/2632-072X/abebd3</a>
 				 - <ps>arXiv: <a href="https://arxiv.org/abs/2009.03824" target="_blank">2009.03824</a>
 
@@ -277,21 +276,21 @@
 			<li>
 				M. Tyloo, <rd> R. Delabays</rd>, and P. Jacquod,
 				<a href="docs/articles/Tyloo19a.pdf" target="_blank" class="publication">Noise-induced desynchronization and stochastic escape from equilibrium in complex networks</a>,
-				Phys. Rev. E <b>99</b>, 062213 (2019).
+				Physical Review E <b>99</b>, 062213 (2019).
 				<br><ps>DOI: <a href="https://doi.org/10.1103/PhysRevE.99.062213" target="_blank">10.1103/PhysRevE.99.062213</a>
 				 - <ps>arXiv: <a href="https://arxiv.org/abs/1812.09497" target="_blank">1812.09497</a>
 
 			<li>
 				D. Cimasoni and <rd> R. Delabays</rd>,
 				<a href="docs/articles/Cimasoni19a.pdf" target="_blank" class="publication">The topological hypothesis for discrete spin models</a>,
-				J. Stat. Mech. <b>2019</b> (2019).
+				Journal of Statistical Mechanics <b>2019</b> (2019).
 				<br><ps>DOI: <a href="https://doi.org/10.1088/1742-5468/ab0c14" target="_blank">10.1088/1742-5468/ab0c14</a>
 				 - <ps>arXiv: <a href="https://arxiv.org/abs/1811.10263" target="_blank">1811.10263</a>
 
 			<li>
 				<rd> R. Delabays</rd>, P. Jacquod, and F. D&ouml;rfler,
 				<a href="docs/articles/Delabays19c.pdf" target="_blank" class="publication">The Kuramoto Model on Oriented and Signed Graphs</a>,
-				SIAM J. Appl. Dyn. Syst. <b>18</b>, 458 (2019).
+				SIAM Journal on Applied Dynamical Systems <b>18</b>, 458 (2019).
 				<br><ps>DOI: <a href="https://doi.org/10.1137/18M1203055" target="_blank">10.1137/18M1203055</a>
 				 - <ps>arXiv: <a href="https://arxiv.org/abs/1807.11410" target="_blank">1807.11410</a>
 
@@ -305,27 +304,27 @@
 			<li>
 				T. Coletta, <rd> R. Delabays</rd>, and P. Jacquod,
 				<a href="docs/articles/Coletta17a.pdf" target="_blank" class="publication">Finite-size scaling in the Kuramoto model</a>,
-				Phys. Rev. E <b>95</b>, 103117 (2017).
+				Physical Review E <b>95</b>, 103117 (2017).
 				<br><ps>DOI: <a href="https://doi.org/10.1103/PhysRevE.95.042207" target="_blank">10.1103/PhysRevE.95.042207</a>
 				 - <ps>arXiv: <a href="https://arxiv.org/abs/1612.07031" target="_blank">1612.07031</a>
 
 			<li>
 				<rd> R. Delabays</rd>, T. Coletta, and P. Jacquod,
 				<a href="docs/articles/Delabays17b.pdf" target="_blank" class="publication">Multistability of phase-locking in equal-frequency Kuramoto models on planar graphs</a>,
-				J. Math. Phys. <b>58</b>, 032703 (2017).
+				Journal of Mathematical Physics <b>58</b>, 032703 (2017).
 				<br><ps>DOI: <a href="https://doi.org/10.1063/1.4978697" target="_blank">10.1063/1.4978697</a>
 				 - <ps>arXiv: <a href="https://arxiv.org/abs/1609.02359" target="_blank">1609.02359</a>
 			<li>
 				T. Coletta, <rd> R. Delabays</rd>, I. Adagideli, and P. Jacquod,
 				<a href="docs/articles/Coletta16a.pdf" target="_blank" class="publication">Topologically protected loop flows in high voltage AC power grids</a>,
-				New. J. Phys. <b>18</b>, 103042 (2016).
+				New Journal of Physics <b>18</b>, 103042 (2016).
 				<br><ps>DOI: <a href="https://doi.org/10.1088/1367-2630/18/10/103042" target="_blank">10.1088/1367-2630/18/10/103042</a>
 				 - <ps>arXiv: <a href="https://arxiv.org/abs/1605.07925" target="_blank">1605.07925</a>
 
 			<li>
 				<rd> R. Delabays</rd>, T. Coletta, and P. Jacquod,
 				<a href="docs/articles/Delabays16a.pdf" target="_blank" class="publication">Multistability of phase-locking and topological winding numbers in locally coupled Kuramoto models on single-loop networks</a>,
-				J. Math. Phys. <b>57</b>, 032701 (2016).
+				Journal of Mathematical Physics <b>57</b>, 032701 (2016).
 				<br><ps>DOI: <a href="https://doi.org/10.1063/1.4943296" target="_blank">10.1063/1.4943296</a>
 				 - <ps>arXiv: <a href="https://arxiv.org/abs/1512.04266" target="_blank">1512.04266</a>
 
@@ -373,6 +372,14 @@
 		<p><i>All conference material is under CC-BY license.</i></p>
 
 		<ul>
+			<li>
+				<b>Jul. 17 - 20, 2023:</b> IC2S2 2023, Copenhagen, Denmark.
+				<br><rd>Poster:</rd> <a href="docs/conferences/IC2S2-23.pdf" target="_blank" class="publication">Heavy-tailed distribution of the number of papers within scientific journals</a>.
+
+			<li>
+				<b>Jul. 10 - 14, 2023:</b> NetSci 2023, Vienna, Austria.
+				<br><rd>Talk:</rd> <a href="docs/conferences/NetSci23.pdf" target="_blank" class="publication">Locating the source of forced oscillations in transmission power grids</a>.
+
 			<li>
 				<b>Sep. 13 - 15, 2022:</b> SIAM Network Science Workshop 2022, Online.
 				<br><rd>Talk:</rd> <a href="docs/conferences/SIAM-NS22.pdf" target="_blank" class="publication">Complex networks of lossy oscillators: Multistability, anomalies, and loop flows in power grids</a>.
@@ -541,7 +548,7 @@
 		<div class="footer">
 			<p class="footer">
 				<br><br>
-				Last updated on June 8th, 2023.
+				Last updated on July 19th, 2023.
 				<br><br><br>
 			</p>
 		</div>
