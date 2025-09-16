@@ -1,0 +1,28 @@
+project:
+  type: book
+  output-dir: _book
+  post-render: quarto render --profile slides
+
+number-depth: 1
+
+book:
+  reader-mode: false
+  title: "Applied Statistics: Times Series"
+  author: "Robin Delabays"
+  chapters:
+    - index.qmd
+    - part: "First Part"
+      chapters: 
+       - Week1/index.qmd
+    - part: "Second Part"
+      chapters: 
+       - Week2/index.qmd
+    - part: "Third Part"
+    - part: "Fourth Part"
+    - part: "Fifth Part"
+
+format:
+  live-html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt

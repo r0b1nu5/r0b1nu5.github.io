@@ -1,0 +1,10 @@
+profile:
+  default: slides
+author:
+    - name: Robin Delabays
+      orcid: 0000-0001-6344-1207
+      institute: HES-SO Valais-Wallis
+date: last-modified
+date-format: long
+  
+bibliography: references.bib
