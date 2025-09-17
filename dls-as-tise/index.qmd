@@ -1,6 +1,0 @@
-# Useful info {.unnumbered}
-
-
-In this course we will..
-
-[PDF Version](https://delabays.xyz/dls-as-tise/_book/Coursetitle.pdf){.btn .btn-outline-primary .btn role="button"} 
