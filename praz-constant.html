@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Praz Constant</title>
+<meta name="description" content="Coordonnées et informations de contact de la ferme de Praz Constant : Chemin de Praz Constant 2, 1070 Puidoux, +41 21 000 00 00, info@praz-constant.ch">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.praz-constant.ch/">
+
+<!-- Open Graph (partage sur réseaux sociaux / messageries) -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Ferme de Praz Constant — Contact">
+<meta property="og:description" content="Coordonnées et informations de contact de la ferme de Praz Constant.">
+<meta property="og:url" content="https://www.praz-constant.ch/">
+<meta property="og:locale" content="fr_FR">
+<!-- <meta property="og:image" content="https://www.exemple.com/apercu.jpg"> -->
+
+<!-- Favicon : remplacez favicon.svg / favicon.ico par vos propres fichiers -->
+<link rel="icon" type="image/svg+xml" href="images/favicon-pc.svg">
+<link rel="icon" type="image/x-icon" href="images/favicon.ico">
+<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+
+<style>
+  :root{
+    --ink:#1c1c1a;
+    --paper:#f6f5f2;
+    --line: rgba(28,28,26,0.15);
+    --accent:#8a6d4b;
+  }
+
+  *{ box-sizing:border-box; }
+
+  html,body{
+    margin:0;
+    padding:0;
+    height:100%;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    color: var(--ink);
+  }
+
+  body{
+    position:relative;
+    min-height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding: 24px;
+  }
+
+  /* PHOTO DE FOND — remplacez l'URL ci-dessous par votre propre image */
+  body::before{
+    content:"";
+    position:fixed;
+    inset:0;
+    background-image: url("images/background-praz-constant.png");
+    background-size: cover;
+    background-position: center;
+/*    filter: grayscale(100%) brightness(0.9);*/
+    z-index:-2;
+  }
+
+  /* voile clair pour garder le texte lisible */
+  body::after{
+    content:"";
+    position:fixed;
+    inset:0;
+    background: rgba(246,245,242,0.32);
+    z-index:-1;
+  }
+
+  .card{
+    width:100%;
+    max-width: 550px;
+    background: var(--paper);
+    border: 1px solid var(--line);
+    padding: 48px 40px;
+    text-align:center;
+  }
+
+  h1{
+    font-size: 1.7rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    margin: 0 0 6px;
+  }
+
+  .tagline{
+    font-size: 0.9rem;
+    color: #6b6b66;
+    margin: 0 0 36px;
+  }
+
+  .infos{
+    list-style:none;
+    margin:0 0 32px;
+    padding:0;
+    text-align:left;
+  }
+
+  .infos li{
+    display:flex;
+    gap:14px;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--line);
+    font-size: 0.95rem;
+    line-height:1.4;
+  }
+
+  .infos li:last-child{
+    border-bottom:none;
+  }
+
+  .label{
+    flex: 0 0 140px;
+    color: #7c7c76;
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding-top: 2px;
+  }
+
+  .value{
+    flex:1;
+    color: var(--ink);
+  }
+
+  a{
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent);
+  }
+
+  a:hover{
+    color: var(--accent);
+  }
+
+  .associes{
+    font-size: 0.85rem;
+    color: #6b6b66;
+  }
+
+  .associes span{
+    display:block;
+  }
+
+  @media (max-width: 520px){
+    .card{ padding: 36px 24px; }
+    .label{ flex-basis: 90px; font-size:0.72rem; }
+  }
+</style>
+</head>
+<body>
+
+  <main class="card">
+    <h1>Ferme de Praz Constant</h1>
+    <p> Nous vous souhaitons la bienvenue sur notre site en construction...</p>
+    <p>Fanny, Kaya, L&eacute;o et Samuel</p>
+
+    <ul class="infos">
+      <li>
+        <span class="label">Nous trouver</span>
+        <span class="value">
+          <a href="https://www.openstreetmap.org/way/313656588#map=18/46.497656/6.802769" target="_blank" rel="noopener">
+            Chemin de Praz Constant 2, 1070 Puidoux
+          </a>
+        </span>
+      </li>
+      <li>
+        <span class="label">Nous téléphoner</span>
+        <span class="value">+41 21 000 00 00</span>
+      </li>
+      <li>
+        <span class="label">Nous écrire</span>
+        <span class="value"><a href="mailto:contact@praz-constant.ch">contact@praz-constant.ch</a></span>
+      </li>
+
+      <!-- Section optionnelle : horaires
+      <li>
+        <span class="label">Horaires</span>
+        <span class="value">Lun–Ven, 9h–18h</span>
+      </li>
+      -->
+    </ul>
+
+    <!-- Section optionnelle : réseaux sociaux
+    <div class="reseaux" style="margin-top:24px;">
+      <a href="https://linkedin.com/company/exemple" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+    -->
+  </main>
+
+</body>
+</html>
